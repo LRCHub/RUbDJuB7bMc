@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブ&ポップ",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-29T01:20:18.413557Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブ&ポップ",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_ラブ&ポップ_BaseBallBear.txt"
+    }
+  ]
+}
